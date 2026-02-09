@@ -54,9 +54,6 @@ Technical Vocational School (Berufsmatura)
 
 **F. Hoffmann-La Roche, Basel/Kaiseraugst**  
 *August 2019 - July 2022*
-- Collaborated in cross-functional laboratory teams
-- Contributed ideas and improvements to ongoing projects
-- Developed strong organizational and communication skills
 
 ## 🚀 Main Projects
 ### FHNW Interdisciplinary Projects:
