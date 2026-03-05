@@ -21,7 +21,7 @@ I focus on UI/UX design with strong technical foundations, creating interfaces t
 I’m passionate about building interactive web experiences that combine thoughtful design with clean, maintainable code.
 
 ## 💡 Currently
-🤖 Currently working on my bachelor’s thesis at FHNW on integrating care robots in senior homes, in collaboration with Spitex Unicare.
+🤖 Currently working on my bachelor’s thesis at FHNW on integrating care robots in senior homes, in collaboration with Spitex Unicare
 
 🌱 Deepening my skills in front-end development and UI systems
 
