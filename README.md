@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I am Michelle!
+# 👋 Hi there, I am Michelle! °‧ 𓆝 𓆟 𓆞 ·｡
 
 ## ✨ About Me
 I’m a Computer Science student specializing in Design & Management at the University of Applied Sciences and Arts Northwestern Switzerland (FHNW).  
