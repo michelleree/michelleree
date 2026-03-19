@@ -65,6 +65,9 @@ Technical Vocational School (Berufsmatura)
 - **Silent Hill 2 Remake - Fanpage** - [GitHub](https://github.com/michelleree/silent-hill-2)
 - **Love Letter - Couple's Fanpage** - [GitHub](https://github.com/michelleree/love-letter)
 
+### Other Projects - Portfolio:
+You can view my portfolio here: [Download/View PDF Portfolio](Portfolio_Michelle Rickenmann.pdf)
+
 ---
 
 ## 🌟 Fun Facts
