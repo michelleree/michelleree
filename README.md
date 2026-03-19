@@ -66,7 +66,7 @@ Technical Vocational School (Berufsmatura)
 - **Love Letter - Couple's Fanpage** - [GitHub](https://github.com/michelleree/love-letter)
 
 ### Other Projects - Portfolio:
-You can view my portfolio here: [Download/View PDF Portfolio](Portfolio_Michelle Rickenmann.pdf)
+You can view my portfolio here: [Download/View PDF Portfolio](./files/Portfolio_Michelle Rickenmann.pdf)
 
 ---
 
