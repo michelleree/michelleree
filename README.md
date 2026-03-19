@@ -74,5 +74,5 @@ Technical Vocational School (Berufsmatura)
 
 ---
 
-🔗 **LinkedIn:** [Let's connect!](www.linkedin.com/in/michelleree)  
+🔗 **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/michelleree)  
 📧 **Mail:** michelle.rickenmann@gmail.com
