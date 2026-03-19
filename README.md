@@ -67,9 +67,6 @@ Technical Vocational School (Berufsmatura)
 
 ### Other Projects - Portfolio:
 You can view my portfolio here: [Download/View PDF Portfolio](./files/Portfolio_Michelle.pdf)
-## 🎨 Visual Portfolio
-[![Portfolio Preview](./assets/portfolio-thumbnail.png)](./files/Portfolio_Michelle.pdf)
-*Click the image above to view my full PDF portfolio.*
 
 ---
 
