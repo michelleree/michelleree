@@ -57,6 +57,7 @@ Technical Vocational School (Berufsmatura)
 
 ## 🚀 Main Projects
 ### FHNW Interdisciplinary Projects:
+- **Exploring Acceptability and Integration Strategies for Care Robots in Senior Homes** - [View project in detail](https://web0.fhnw.ch/ht/informatik/ip6/26fs/26fs_iit09/index.html)
 - **Interactive 3D Map of Relocation Process** - [View project in detail](https://web0.fhnw.ch/ht/informatik/ip5/25hs/25hs_iit25/index.html)
 - **Power Tower Challenge** - [View project in detail](https://web0.fhnw.ch/ht/informatik/ip34/25vt/powertower/index.html)
 - **Powerhouse** - [View project in detail](https://web0.fhnw.ch/ht/informatik/ip12/24vt/energieeffizienz/index.html)
