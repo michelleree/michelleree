@@ -42,7 +42,7 @@ I’m passionate about building interactive web experiences that combine thought
 ## 🎓 Education
 
 **University of Applied Sciences and Arts Northwestern Switzerland, FHNW**  
-*September 2023 - Now*  
+*September 2023 - September 2026*  
 BSc Computer Science - iCompetence, Design & Management
 
 **Berufsschule Aarau**  
@@ -67,7 +67,7 @@ Technical Vocational School (Berufsmatura)
 - **Love Letter - Couple's Fanpage** - [GitHub](https://github.com/michelleree/love-letter)
 
 ### Other Projects - Portfolio:
-You can view my portfolio here: [Download/View PDF Portfolio](./files/Portfolio_Michelle.pdf)
+You can view my portfolio here: [Download/View PDF Portfolio](./Portfolio_Michelle.pdf)
 
 ---
 
